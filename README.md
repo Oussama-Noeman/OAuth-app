@@ -3,14 +3,17 @@
 
 In this project you found a full authentication app (register and login)
       
-##Testing :
-###Register
+## Testing :
+### Register
 ![register_postman](https://user-images.githubusercontent.com/121083063/225554577-4457926a-5214-4500-8d5b-5af5f2d73418.png)
 
-###Login
+### Login
 ![login_postman](https://user-images.githubusercontent.com/121083063/225554636-c9ec16c0-5980-4fa2-8654-d2396e80235d.png)
 
-##Security
+## Security
   Used Sanctum package for APIs security protection
   
 You cannot do any thing before you get the token
+
+## Send Email
+  An email is sent automatically after you do any action in the website (using Mailtrap)
